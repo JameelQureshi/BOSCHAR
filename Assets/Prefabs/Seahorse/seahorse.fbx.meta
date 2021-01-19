@@ -1,0 +1,296 @@
+fileFormatVersion: 2
+guid: b520c9205e9e242338e78b18d97e0e1d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: eyeL
+    100002: eyesSeahorse
+    100004: fluteGuy_v06:eyeL
+    100006: group1
+    100008: group2
+    100010: group3
+    100012: //RootNode
+    100014: Seahorse_BlendEyes_GEO_GRP
+    100016: Seahorse_Ear_L_CTR
+    100018: Seahorse_Ear_L_GRP
+    100020: Seahorse_Ear_R_CTR
+    100022: Seahorse_Ear_R_GRP
+    100024: Seahorse_Eye_L_CTR
+    100026: Seahorse_Eye_L_GRP
+    100028: Seahorse_Eye_R_CTR
+    100030: Seahorse_Eye_R_GRP
+    100032: Seahorse_Flipper1_L_GRP
+    100034: Seahorse_Flipper1_L_GRP 1
+    100036: Seahorse_Flipper1_R_GRP
+    100038: Seahorse_Flipper1_R_GRP 1
+    100040: Seahorse_Flipper2_L_CTR
+    100042: Seahorse_Flipper2_L_GRP
+    100044: Seahorse_Flipper2_R_CTR
+    100046: Seahorse_Flipper2_R_GRP
+    100048: Seahorse_GEO
+    100050: Seahorse_Head
+    100052: Seahorse_Head_CTR
+    100054: Seahorse_Head_end
+    100056: Seahorse_Head_GRP
+    100058: Seahorse_Jaw_CTR
+    100060: Seahorse_Jaw_end
+    100062: Seahorse_Jaw_GRP
+    100064: Seahorse_Jaw_start
+    100066: Seahorse_L_Ear_1
+    100068: Seahorse_L_Ear_2
+    100070: Seahorse_L_Eye
+    100072: Seahorse_L_Flipper_1
+    100074: Seahorse_L_Flipper_2
+    100076: Seahorse_L_Flipper_3
+    100078: Seahorse_R_Ear_1
+    100080: Seahorse_R_Ear_2
+    100082: Seahorse_R_Eye
+    100084: Seahorse_R_Flipper_1
+    100086: Seahorse_R_Flipper_2
+    100088: Seahorse_R_Flipper_3
+    100090: Seahorse_Root
+    100092: Seahorse_Root_CTR
+    100094: Seahorse_Spine1_CTR
+    100096: Seahorse_Spine1_GRP
+    100098: Seahorse_Spine2_CTR
+    100100: Seahorse_Spine2_GRP
+    100102: Seahorse_Spine3_CTR
+    100104: Seahorse_Spine3_GRP
+    100106: Seahorse_Spine_1
+    100108: Seahorse_Spine_2
+    100110: Seahorse_Spine_3
+    100112: Seahorse_Spine_back
+    100114: Seahorse_Spine_CTR
+    100116: Seahorse_Spine_start
+    100118: Seahorse_Tail1_CTR
+    100120: Seahorse_Tail1_GRP
+    100122: Seahorse_Tail2_CTR
+    100124: Seahorse_Tail2_GRP
+    100126: Seahorse_Tail3_CTR
+    100128: Seahorse_Tail3_GRP
+    100130: Seahorse_Tail4_CTR
+    100132: Seahorse_Tail4_GRP
+    100134: Seahorse_Tail5_CTR
+    100136: Seahorse_Tail5_GRP
+    100138: Seahorse_Tail_2
+    100140: Seahorse_Tail_3
+    100142: Seahorse_Tail_4
+    100144: Seahorse_Tail_5
+    100146: Seahorse_Tail_L_1
+    100148: Seahorse_Tail_L_2
+    100150: Seahorse_Tail_L_CTR
+    100152: Seahorse_Tail_L_GRP
+    100154: Seahorse_Tail_R_1
+    100156: Seahorse_Tail_R_2
+    100158: Seahorse_Tail_R_CTR
+    100160: Seahorse_Tail_R_GRP
+    400000: eyeL
+    400002: eyesSeahorse
+    400004: fluteGuy_v06:eyeL
+    400006: group1
+    400008: group2
+    400010: group3
+    400012: //RootNode
+    400014: Seahorse_BlendEyes_GEO_GRP
+    400016: Seahorse_Ear_L_CTR
+    400018: Seahorse_Ear_L_GRP
+    400020: Seahorse_Ear_R_CTR
+    400022: Seahorse_Ear_R_GRP
+    400024: Seahorse_Eye_L_CTR
+    400026: Seahorse_Eye_L_GRP
+    400028: Seahorse_Eye_R_CTR
+    400030: Seahorse_Eye_R_GRP
+    400032: Seahorse_Flipper1_L_GRP
+    400034: Seahorse_Flipper1_L_GRP 1
+    400036: Seahorse_Flipper1_R_GRP
+    400038: Seahorse_Flipper1_R_GRP 1
+    400040: Seahorse_Flipper2_L_CTR
+    400042: Seahorse_Flipper2_L_GRP
+    400044: Seahorse_Flipper2_R_CTR
+    400046: Seahorse_Flipper2_R_GRP
+    400048: Seahorse_GEO
+    400050: Seahorse_Head
+    400052: Seahorse_Head_CTR
+    400054: Seahorse_Head_end
+    400056: Seahorse_Head_GRP
+    400058: Seahorse_Jaw_CTR
+    400060: Seahorse_Jaw_end
+    400062: Seahorse_Jaw_GRP
+    400064: Seahorse_Jaw_start
+    400066: Seahorse_L_Ear_1
+    400068: Seahorse_L_Ear_2
+    400070: Seahorse_L_Eye
+    400072: Seahorse_L_Flipper_1
+    400074: Seahorse_L_Flipper_2
+    400076: Seahorse_L_Flipper_3
+    400078: Seahorse_R_Ear_1
+    400080: Seahorse_R_Ear_2
+    400082: Seahorse_R_Eye
+    400084: Seahorse_R_Flipper_1
+    400086: Seahorse_R_Flipper_2
+    400088: Seahorse_R_Flipper_3
+    400090: Seahorse_Root
+    400092: Seahorse_Root_CTR
+    400094: Seahorse_Spine1_CTR
+    400096: Seahorse_Spine1_GRP
+    400098: Seahorse_Spine2_CTR
+    400100: Seahorse_Spine2_GRP
+    400102: Seahorse_Spine3_CTR
+    400104: Seahorse_Spine3_GRP
+    400106: Seahorse_Spine_1
+    400108: Seahorse_Spine_2
+    400110: Seahorse_Spine_3
+    400112: Seahorse_Spine_back
+    400114: Seahorse_Spine_CTR
+    400116: Seahorse_Spine_start
+    400118: Seahorse_Tail1_CTR
+    400120: Seahorse_Tail1_GRP
+    400122: Seahorse_Tail2_CTR
+    400124: Seahorse_Tail2_GRP
+    400126: Seahorse_Tail3_CTR
+    400128: Seahorse_Tail3_GRP
+    400130: Seahorse_Tail4_CTR
+    400132: Seahorse_Tail4_GRP
+    400134: Seahorse_Tail5_CTR
+    400136: Seahorse_Tail5_GRP
+    400138: Seahorse_Tail_2
+    400140: Seahorse_Tail_3
+    400142: Seahorse_Tail_4
+    400144: Seahorse_Tail_5
+    400146: Seahorse_Tail_L_1
+    400148: Seahorse_Tail_L_2
+    400150: Seahorse_Tail_L_CTR
+    400152: Seahorse_Tail_L_GRP
+    400154: Seahorse_Tail_R_1
+    400156: Seahorse_Tail_R_2
+    400158: Seahorse_Tail_R_CTR
+    400160: Seahorse_Tail_R_GRP
+    2100000: lambert1
+    4300000: Seahorse_GEO
+    4300002: fluteGuy_v06:eyeL
+    4300004: eyeL
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: eyeL
+    13700002: fluteGuy_v06:eyeL
+    13700004: Seahorse_GEO
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: cf367e10ef05e4f05945630242657a5e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 59
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

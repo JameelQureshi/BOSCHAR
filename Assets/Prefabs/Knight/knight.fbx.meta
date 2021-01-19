@@ -1,0 +1,474 @@
+fileFormatVersion: 2
+guid: dfc40c19efe744fd9aee6fbc3ddd34b1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: knight_rig_v17:ikHandle1
+    100004: knight_rig_v17:ikHandle1 1
+    100006: knight_rig_v17:ikHandle2
+    100008: knight_rig_v17:ikHandle3
+    100010: knight_rig_v17:ikHandle4
+    100012: knight_rig_v17:ikHandle_L_Ball
+    100014: knight_rig_v17:ikHandle_L_Ball 1
+    100016: knight_rig_v17:ikHandle_L_Toe
+    100018: knight_rig_v17:ikHandle_L_Toe 1
+    100020: knight_rig_v17:Knight_Ankle_IK_L_CTR
+    100022: knight_rig_v17:Knight_Ankle_IK_L_CTR 1
+    100024: knight_rig_v17:Knight_Ankle_IK_L_GRP
+    100026: knight_rig_v17:Knight_Ankle_IK_L_GRP 1
+    100028: knight_rig_v17:Knight_Ball_IK_L_CTR
+    100030: knight_rig_v17:Knight_Ball_IK_L_CTR 1
+    100032: knight_rig_v17:Knight_Ball_IK_L_GRP
+    100034: knight_rig_v17:Knight_Ball_IK_L_GRP 1
+    100036: knight_rig_v17:Knight_Foot_IK_L_CTR
+    100038: knight_rig_v17:Knight_Foot_IK_L_CTR 1
+    100040: knight_rig_v17:Knight_Foot_IK_L_GRP
+    100042: knight_rig_v17:Knight_Foot_IK_R_GRP
+    100044: knight_rig_v17:Knight_Toe_IK_L_CTR
+    100046: knight_rig_v17:Knight_Toe_IK_L_CTR 1
+    100048: knight_rig_v17:Knight_Toe_IK_L_GRP
+    100050: knight_rig_v17:Knight_Toe_IK_L_GRP 1
+    100052: knight_rig_v17:arrow
+    100054: knight_rig_v17:body
+    100056: knight_rig_v17:eyeL
+    100058: knight_rig_v17:eyeR
+    100060: knight_rig_v17:eyes
+    100062: knight_rig_v17:foot
+    100064: knight_rig_v17:group1
+    100066: knight_rig_v17:knee_CTRs
+    100068: knight_rig_v17:Knight_Arrow1_JNT
+    100070: knight_rig_v17:Knight_Arrow2_JNT
+    100072: knight_rig_v17:Knight_Beak_B_CTR
+    100074: knight_rig_v17:Knight_Beak_B_end_JNT
+    100076: knight_rig_v17:Knight_Beak_B_GRP
+    100078: knight_rig_v17:Knight_Beak_B_JNT
+    100080: knight_rig_v17:Knight_Beak_T_CTR
+    100082: knight_rig_v17:Knight_Beak_T_end_JNT
+    100084: knight_rig_v17:Knight_Beak_T_GRP
+    100086: knight_rig_v17:Knight_Beak_T_JNT
+    100088: knight_rig_v17:Knight_Eye_L_CTR
+    100090: knight_rig_v17:Knight_Eye_L_GRP
+    100092: knight_rig_v17:Knight_Eye_L_JNT
+    100094: knight_rig_v17:Knight_Eye_R_CTR
+    100096: knight_rig_v17:Knight_Eye_R_GRP
+    100098: knight_rig_v17:Knight_Eye_R_JNT
+    100100: knight_rig_v17:Knight_Foot1_FK_L_JNT
+    100102: knight_rig_v17:Knight_Foot1_FK_R_JNT
+    100104: knight_rig_v17:Knight_Foot1_IK_L_JNT
+    100106: knight_rig_v17:Knight_Foot1_IK_R_JNT
+    100108: knight_rig_v17:Knight_Foot1_L_JNT
+    100110: knight_rig_v17:Knight_Foot1_R_JNT
+    100112: knight_rig_v17:Knight_Foot2_FK_L_JNT
+    100114: knight_rig_v17:Knight_Foot2_FK_R_JNT
+    100116: knight_rig_v17:Knight_Foot2_IK_L_JNT
+    100118: knight_rig_v17:Knight_Foot2_IK_R_JNT
+    100120: knight_rig_v17:Knight_Foot2_L_JNT
+    100122: knight_rig_v17:Knight_Foot2_R_JNT
+    100124: knight_rig_v17:Knight_Foot3_IK_L_JNT
+    100126: knight_rig_v17:Knight_Foot3_IK_R_JNT
+    100128: knight_rig_v17:Knight_FootF1e_L_JNT
+    100130: knight_rig_v17:Knight_FootF1e_R_JNT
+    100132: knight_rig_v17:Knight_FootF1m_L_JNT
+    100134: knight_rig_v17:Knight_FootF1m_R_JNT
+    100136: knight_rig_v17:Knight_FootF1s_L_JNT
+    100138: knight_rig_v17:Knight_FootF1s_R_JNT
+    100140: knight_rig_v17:Knight_FootF2e_L_JNT
+    100142: knight_rig_v17:Knight_FootF2e_R_JNT
+    100144: knight_rig_v17:Knight_FootF2m_L_JNT
+    100146: knight_rig_v17:Knight_FootF2m_R_JNT
+    100148: knight_rig_v17:Knight_FootF2s_L_JNT
+    100150: knight_rig_v17:Knight_FootF2s_R_JNT
+    100152: knight_rig_v17:Knight_FootF3e_L_JNT
+    100154: knight_rig_v17:Knight_FootF3e_R_JNT
+    100156: knight_rig_v17:Knight_FootF3m_L_JNT
+    100158: knight_rig_v17:Knight_FootF3m_R_JNT
+    100160: knight_rig_v17:Knight_FootF3s_L_JNT
+    100162: knight_rig_v17:Knight_FootF3s_R_JNT
+    100164: knight_rig_v17:Knight_FootF4e_L_JNT
+    100166: knight_rig_v17:Knight_FootF4e_R_JNT
+    100168: knight_rig_v17:Knight_FootF4m_L_JNT
+    100170: knight_rig_v17:Knight_FootF4m_R_JNT
+    100172: knight_rig_v17:Knight_FootF4s_L_JNT
+    100174: knight_rig_v17:Knight_FootF4s_R_JNT
+    100176: knight_rig_v17:Knight_Head1_JNT
+    100178: knight_rig_v17:Knight_Head2_JNT
+    100180: knight_rig_v17:Knight_Head_CTR
+    100182: knight_rig_v17:Knight_Head_GRP
+    100184: knight_rig_v17:Knight_Hips_CTR
+    100186: knight_rig_v17:Knight_Hips_GRP
+    100188: knight_rig_v17:Knight_Hips_JNT
+    100190: knight_rig_v17:Knight_Knee_IK_L_CTR
+    100192: knight_rig_v17:Knight_Knee_IK_R_CTR
+    100194: knight_rig_v17:Knight_Line1_CTR
+    100196: knight_rig_v17:Knight_Line1_GRP
+    100198: knight_rig_v17:Knight_Line1_JNT
+    100200: knight_rig_v17:Knight_Line2_CTR
+    100202: knight_rig_v17:Knight_Line2_GRP
+    100204: knight_rig_v17:Knight_Line2_JNT
+    100206: knight_rig_v17:Knight_Line3_CTR
+    100208: knight_rig_v17:Knight_Line3_GRP
+    100210: knight_rig_v17:Knight_Line3_JNT
+    100212: knight_rig_v17:Knight_Line4_JNT
+    100214: knight_rig_v17:Knight_Line5_JNT
+    100216: knight_rig_v17:Knight_LowerLeg_FK_L_JNT
+    100218: knight_rig_v17:Knight_LowerLeg_FK_R_JNT
+    100220: knight_rig_v17:Knight_LowerLeg_IK_L_JNT
+    100222: knight_rig_v17:Knight_LowerLeg_IK_R_JNT
+    100224: knight_rig_v17:Knight_LowerLeg_L_JNT
+    100226: knight_rig_v17:Knight_LowerLeg_R_JNT
+    100228: knight_rig_v17:Knight_ponyT_1_JNT
+    100230: knight_rig_v17:Knight_ponyT_2_JNT
+    100232: knight_rig_v17:Knight_ponyT_3_JNT
+    100234: knight_rig_v17:Knight_ponyT_4_JNT
+    100236: knight_rig_v17:Knight_ponyT_5_JNT
+    100238: knight_rig_v17:Knight_ponyT_6_JNT
+    100240: knight_rig_v17:Knight_Ponytail1_CTR
+    100242: knight_rig_v17:Knight_Ponytail1_GRP
+    100244: knight_rig_v17:Knight_Ponytail2_CTR
+    100246: knight_rig_v17:Knight_Ponytail2_GRP
+    100248: knight_rig_v17:Knight_Ponytail3_CTR
+    100250: knight_rig_v17:Knight_Ponytail3_GRP
+    100252: knight_rig_v17:Knight_Ponytail4_CTR
+    100254: knight_rig_v17:Knight_Ponytail4_GRP
+    100256: knight_rig_v17:Knight_Ponytail5_CTR
+    100258: knight_rig_v17:Knight_Ponytail5_GRP
+    100260: knight_rig_v17:Knight_Root
+    100262: knight_rig_v17:Knight_Root_JNT
+    100264: knight_rig_v17:Knight_Spine_JNT
+    100266: knight_rig_v17:Knight_Tail1_CTR
+    100268: knight_rig_v17:Knight_Tail1_GRP
+    100270: knight_rig_v17:Knight_Tail1_JNT
+    100272: knight_rig_v17:Knight_Tail2_CTR
+    100274: knight_rig_v17:Knight_Tail2_GRP
+    100276: knight_rig_v17:Knight_Tail2_JNT
+    100278: knight_rig_v17:Knight_Tail3_CTR
+    100280: knight_rig_v17:Knight_Tail3_GRP
+    100282: knight_rig_v17:Knight_Tail3_JNT
+    100284: knight_rig_v17:Knight_Tail4_CTR
+    100286: knight_rig_v17:Knight_Tail4_GRP
+    100288: knight_rig_v17:Knight_Tail4_JNT
+    100290: knight_rig_v17:Knight_Tail5_CTR
+    100292: knight_rig_v17:Knight_Tail5_GRP4
+    100294: knight_rig_v17:Knight_Tail5_JNT
+    100296: knight_rig_v17:Knight_Tail6_CTR
+    100298: knight_rig_v17:Knight_Tail6_GRP5
+    100300: knight_rig_v17:Knight_Tail6_JNT
+    100302: knight_rig_v17:Knight_Tail7_CTR
+    100304: knight_rig_v17:Knight_Tail7_GRP6
+    100306: knight_rig_v17:Knight_Tail7_JNT
+    100308: knight_rig_v17:Knight_Tail8_JNT
+    100310: knight_rig_v17:Knight_UpperLeg_FK_L_JNT
+    100312: knight_rig_v17:Knight_UpperLeg_FK_R_JNT
+    100314: knight_rig_v17:Knight_UpperLeg_IK_L_JNT
+    100316: knight_rig_v17:Knight_UpperLeg_IK_R_JNT
+    100318: knight_rig_v17:Knight_UpperLeg_L_JNT
+    100320: knight_rig_v17:Knight_UpperLeg_R_JNT
+    100322: knight_rig_v17:knightBird
+    100324: knight_rig_v17:motion_CTR
+    100326: knight_rig_v17:nurbsCircle1
+    100328: locator1
+    100330: locator2
+    100332: locator3
+    100334: locator4
+    400000: //RootNode
+    400002: knight_rig_v17:ikHandle1
+    400004: knight_rig_v17:ikHandle1 1
+    400006: knight_rig_v17:ikHandle2
+    400008: knight_rig_v17:ikHandle3
+    400010: knight_rig_v17:ikHandle4
+    400012: knight_rig_v17:ikHandle_L_Ball
+    400014: knight_rig_v17:ikHandle_L_Ball 1
+    400016: knight_rig_v17:ikHandle_L_Toe
+    400018: knight_rig_v17:ikHandle_L_Toe 1
+    400020: knight_rig_v17:Knight_Ankle_IK_L_CTR
+    400022: knight_rig_v17:Knight_Ankle_IK_L_CTR 1
+    400024: knight_rig_v17:Knight_Ankle_IK_L_GRP
+    400026: knight_rig_v17:Knight_Ankle_IK_L_GRP 1
+    400028: knight_rig_v17:Knight_Ball_IK_L_CTR
+    400030: knight_rig_v17:Knight_Ball_IK_L_CTR 1
+    400032: knight_rig_v17:Knight_Ball_IK_L_GRP
+    400034: knight_rig_v17:Knight_Ball_IK_L_GRP 1
+    400036: knight_rig_v17:Knight_Foot_IK_L_CTR
+    400038: knight_rig_v17:Knight_Foot_IK_L_CTR 1
+    400040: knight_rig_v17:Knight_Foot_IK_L_GRP
+    400042: knight_rig_v17:Knight_Foot_IK_R_GRP
+    400044: knight_rig_v17:Knight_Toe_IK_L_CTR
+    400046: knight_rig_v17:Knight_Toe_IK_L_CTR 1
+    400048: knight_rig_v17:Knight_Toe_IK_L_GRP
+    400050: knight_rig_v17:Knight_Toe_IK_L_GRP 1
+    400052: knight_rig_v17:arrow
+    400054: knight_rig_v17:body
+    400056: knight_rig_v17:eyeL
+    400058: knight_rig_v17:eyeR
+    400060: knight_rig_v17:eyes
+    400062: knight_rig_v17:foot
+    400064: knight_rig_v17:group1
+    400066: knight_rig_v17:knee_CTRs
+    400068: knight_rig_v17:Knight_Arrow1_JNT
+    400070: knight_rig_v17:Knight_Arrow2_JNT
+    400072: knight_rig_v17:Knight_Beak_B_CTR
+    400074: knight_rig_v17:Knight_Beak_B_end_JNT
+    400076: knight_rig_v17:Knight_Beak_B_GRP
+    400078: knight_rig_v17:Knight_Beak_B_JNT
+    400080: knight_rig_v17:Knight_Beak_T_CTR
+    400082: knight_rig_v17:Knight_Beak_T_end_JNT
+    400084: knight_rig_v17:Knight_Beak_T_GRP
+    400086: knight_rig_v17:Knight_Beak_T_JNT
+    400088: knight_rig_v17:Knight_Eye_L_CTR
+    400090: knight_rig_v17:Knight_Eye_L_GRP
+    400092: knight_rig_v17:Knight_Eye_L_JNT
+    400094: knight_rig_v17:Knight_Eye_R_CTR
+    400096: knight_rig_v17:Knight_Eye_R_GRP
+    400098: knight_rig_v17:Knight_Eye_R_JNT
+    400100: knight_rig_v17:Knight_Foot1_FK_L_JNT
+    400102: knight_rig_v17:Knight_Foot1_FK_R_JNT
+    400104: knight_rig_v17:Knight_Foot1_IK_L_JNT
+    400106: knight_rig_v17:Knight_Foot1_IK_R_JNT
+    400108: knight_rig_v17:Knight_Foot1_L_JNT
+    400110: knight_rig_v17:Knight_Foot1_R_JNT
+    400112: knight_rig_v17:Knight_Foot2_FK_L_JNT
+    400114: knight_rig_v17:Knight_Foot2_FK_R_JNT
+    400116: knight_rig_v17:Knight_Foot2_IK_L_JNT
+    400118: knight_rig_v17:Knight_Foot2_IK_R_JNT
+    400120: knight_rig_v17:Knight_Foot2_L_JNT
+    400122: knight_rig_v17:Knight_Foot2_R_JNT
+    400124: knight_rig_v17:Knight_Foot3_IK_L_JNT
+    400126: knight_rig_v17:Knight_Foot3_IK_R_JNT
+    400128: knight_rig_v17:Knight_FootF1e_L_JNT
+    400130: knight_rig_v17:Knight_FootF1e_R_JNT
+    400132: knight_rig_v17:Knight_FootF1m_L_JNT
+    400134: knight_rig_v17:Knight_FootF1m_R_JNT
+    400136: knight_rig_v17:Knight_FootF1s_L_JNT
+    400138: knight_rig_v17:Knight_FootF1s_R_JNT
+    400140: knight_rig_v17:Knight_FootF2e_L_JNT
+    400142: knight_rig_v17:Knight_FootF2e_R_JNT
+    400144: knight_rig_v17:Knight_FootF2m_L_JNT
+    400146: knight_rig_v17:Knight_FootF2m_R_JNT
+    400148: knight_rig_v17:Knight_FootF2s_L_JNT
+    400150: knight_rig_v17:Knight_FootF2s_R_JNT
+    400152: knight_rig_v17:Knight_FootF3e_L_JNT
+    400154: knight_rig_v17:Knight_FootF3e_R_JNT
+    400156: knight_rig_v17:Knight_FootF3m_L_JNT
+    400158: knight_rig_v17:Knight_FootF3m_R_JNT
+    400160: knight_rig_v17:Knight_FootF3s_L_JNT
+    400162: knight_rig_v17:Knight_FootF3s_R_JNT
+    400164: knight_rig_v17:Knight_FootF4e_L_JNT
+    400166: knight_rig_v17:Knight_FootF4e_R_JNT
+    400168: knight_rig_v17:Knight_FootF4m_L_JNT
+    400170: knight_rig_v17:Knight_FootF4m_R_JNT
+    400172: knight_rig_v17:Knight_FootF4s_L_JNT
+    400174: knight_rig_v17:Knight_FootF4s_R_JNT
+    400176: knight_rig_v17:Knight_Head1_JNT
+    400178: knight_rig_v17:Knight_Head2_JNT
+    400180: knight_rig_v17:Knight_Head_CTR
+    400182: knight_rig_v17:Knight_Head_GRP
+    400184: knight_rig_v17:Knight_Hips_CTR
+    400186: knight_rig_v17:Knight_Hips_GRP
+    400188: knight_rig_v17:Knight_Hips_JNT
+    400190: knight_rig_v17:Knight_Knee_IK_L_CTR
+    400192: knight_rig_v17:Knight_Knee_IK_R_CTR
+    400194: knight_rig_v17:Knight_Line1_CTR
+    400196: knight_rig_v17:Knight_Line1_GRP
+    400198: knight_rig_v17:Knight_Line1_JNT
+    400200: knight_rig_v17:Knight_Line2_CTR
+    400202: knight_rig_v17:Knight_Line2_GRP
+    400204: knight_rig_v17:Knight_Line2_JNT
+    400206: knight_rig_v17:Knight_Line3_CTR
+    400208: knight_rig_v17:Knight_Line3_GRP
+    400210: knight_rig_v17:Knight_Line3_JNT
+    400212: knight_rig_v17:Knight_Line4_JNT
+    400214: knight_rig_v17:Knight_Line5_JNT
+    400216: knight_rig_v17:Knight_LowerLeg_FK_L_JNT
+    400218: knight_rig_v17:Knight_LowerLeg_FK_R_JNT
+    400220: knight_rig_v17:Knight_LowerLeg_IK_L_JNT
+    400222: knight_rig_v17:Knight_LowerLeg_IK_R_JNT
+    400224: knight_rig_v17:Knight_LowerLeg_L_JNT
+    400226: knight_rig_v17:Knight_LowerLeg_R_JNT
+    400228: knight_rig_v17:Knight_ponyT_1_JNT
+    400230: knight_rig_v17:Knight_ponyT_2_JNT
+    400232: knight_rig_v17:Knight_ponyT_3_JNT
+    400234: knight_rig_v17:Knight_ponyT_4_JNT
+    400236: knight_rig_v17:Knight_ponyT_5_JNT
+    400238: knight_rig_v17:Knight_ponyT_6_JNT
+    400240: knight_rig_v17:Knight_Ponytail1_CTR
+    400242: knight_rig_v17:Knight_Ponytail1_GRP
+    400244: knight_rig_v17:Knight_Ponytail2_CTR
+    400246: knight_rig_v17:Knight_Ponytail2_GRP
+    400248: knight_rig_v17:Knight_Ponytail3_CTR
+    400250: knight_rig_v17:Knight_Ponytail3_GRP
+    400252: knight_rig_v17:Knight_Ponytail4_CTR
+    400254: knight_rig_v17:Knight_Ponytail4_GRP
+    400256: knight_rig_v17:Knight_Ponytail5_CTR
+    400258: knight_rig_v17:Knight_Ponytail5_GRP
+    400260: knight_rig_v17:Knight_Root
+    400262: knight_rig_v17:Knight_Root_JNT
+    400264: knight_rig_v17:Knight_Spine_JNT
+    400266: knight_rig_v17:Knight_Tail1_CTR
+    400268: knight_rig_v17:Knight_Tail1_GRP
+    400270: knight_rig_v17:Knight_Tail1_JNT
+    400272: knight_rig_v17:Knight_Tail2_CTR
+    400274: knight_rig_v17:Knight_Tail2_GRP
+    400276: knight_rig_v17:Knight_Tail2_JNT
+    400278: knight_rig_v17:Knight_Tail3_CTR
+    400280: knight_rig_v17:Knight_Tail3_GRP
+    400282: knight_rig_v17:Knight_Tail3_JNT
+    400284: knight_rig_v17:Knight_Tail4_CTR
+    400286: knight_rig_v17:Knight_Tail4_GRP
+    400288: knight_rig_v17:Knight_Tail4_JNT
+    400290: knight_rig_v17:Knight_Tail5_CTR
+    400292: knight_rig_v17:Knight_Tail5_GRP4
+    400294: knight_rig_v17:Knight_Tail5_JNT
+    400296: knight_rig_v17:Knight_Tail6_CTR
+    400298: knight_rig_v17:Knight_Tail6_GRP5
+    400300: knight_rig_v17:Knight_Tail6_JNT
+    400302: knight_rig_v17:Knight_Tail7_CTR
+    400304: knight_rig_v17:Knight_Tail7_GRP6
+    400306: knight_rig_v17:Knight_Tail7_JNT
+    400308: knight_rig_v17:Knight_Tail8_JNT
+    400310: knight_rig_v17:Knight_UpperLeg_FK_L_JNT
+    400312: knight_rig_v17:Knight_UpperLeg_FK_R_JNT
+    400314: knight_rig_v17:Knight_UpperLeg_IK_L_JNT
+    400316: knight_rig_v17:Knight_UpperLeg_IK_R_JNT
+    400318: knight_rig_v17:Knight_UpperLeg_L_JNT
+    400320: knight_rig_v17:Knight_UpperLeg_R_JNT
+    400322: knight_rig_v17:knightBird
+    400324: knight_rig_v17:motion_CTR
+    400326: knight_rig_v17:nurbsCircle1
+    400328: locator1
+    400330: locator2
+    400332: locator3
+    400334: locator4
+    2100000: lambert1
+    4300000: knight_rig_v17:body
+    4300002: knight_rig_v17:foot
+    4300004: knight_rig_v17:eyeR
+    4300006: knight_rig_v17:eyeL
+    4300008: knight_rig_v17:arrow
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: knight_rig_v17:arrow
+    13700002: knight_rig_v17:body
+    13700004: knight_rig_v17:eyeL
+    13700006: knight_rig_v17:eyeR
+    13700008: knight_rig_v17:foot
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 3daa8ed05b23b4a03aece176673da7af, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 31
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
