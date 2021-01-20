@@ -451,7 +451,7 @@ PlayerSettings:
   enableCrashReportAPI: 0
   cameraUsageDescription: This will use AR
   locationUsageDescription: 
-  microphoneUsageDescription: 
+  microphoneUsageDescription: This will use microphone
   switchNMETAOverride: 
   switchNetLibKey: 
   switchSocketMemoryPoolSize: 6144
