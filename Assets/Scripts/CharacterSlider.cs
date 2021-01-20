@@ -24,7 +24,7 @@
         const int maxIndex = 4;
         const int threshold = 5;
 
-        const float charWidth = 51f;
+        const float charWidth = 231f;
         const float gap = 29f;
 
         private float EaseInOutQuint(float start, float end, float value)
