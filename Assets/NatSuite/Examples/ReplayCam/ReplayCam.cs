@@ -27,7 +27,6 @@ namespace NatSuite.Examples {
         private AudioSource microphoneSource;
 
         public Canvas canvas;
-        public GameObject canvastostop;
 
         private IEnumerator Start () {
             // Start microphone
@@ -70,7 +69,6 @@ namespace NatSuite.Examples {
         public void TakeScreenShot()
         {
             canvas.enabled = false;
-            canvastostop.SetActive(false);
             Debug.Log("Screen Shot Taken");
             StartCoroutine(TakeScreenshotAndSave());
         }
@@ -103,7 +101,7 @@ namespace NatSuite.Examples {
             // To avoid memory leaks
             Destroy(ss);
             canvas.enabled = true;
-            canvastostop.SetActive(true);
+           
         }
     }
 }
