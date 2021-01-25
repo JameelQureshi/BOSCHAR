@@ -18,10 +18,13 @@ public class MenuController2 : MonoBehaviour
         
     }
 
-    // Update is called once per frame
-    void Update()
+    public void DeleteAll()
     {
-        
+        GameObject[] boschs = GameObject.FindGameObjectsWithTag("Bosch");
+        foreach (GameObject bosch in boschs)
+        {
+            Destroy(bosch);
+        }
     }
 
 

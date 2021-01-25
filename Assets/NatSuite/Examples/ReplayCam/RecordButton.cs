@@ -17,8 +17,7 @@ namespace NatSuite.Examples.Components {
 		public Image button, countdown;
 		public UnityEvent onTouchDown, onTouchUp;
 		public UnityEvent onSingleClick;
-		public AudioSource audioSource;
-		public AudioClip audioClip;
+
 		private bool pressed;
 		private bool isRecording = false;
 		private const float MaxRecordingTime = 10f; // seconds
@@ -47,7 +46,6 @@ namespace NatSuite.Examples.Components {
 			pressed = false;
 			if (!isRecording)
 			{
-				audioSource.PlayOneShot(audioClip);
 				onSingleClick.Invoke();
 			}
 			isRecording = false;
