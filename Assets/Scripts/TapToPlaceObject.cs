@@ -108,7 +108,7 @@ public class TapToPlaceObject : MonoBehaviour
         {
             Nav2.SetActive(false);
             Nav1.SetActive(true);
-            debugMat.color = new Color(1.0f, 1.0f, 1.0f, 1.0f);
+            debugMat.color = new Color(0.6f, 0.6f, 0.6f, 0.6f);
         }
 
         if (Mattoggle == false)
